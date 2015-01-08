@@ -1,0 +1,7 @@
+body {
+  margin-left: 30px;
+  background-image: url("background.jpg");
+  background-size: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
